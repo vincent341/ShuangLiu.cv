@@ -59,5 +59,5 @@
 - ★★☆ JavaScript
 
 ## <img src="assets/document.svg" width="20px"> PUBLICATIONS
-<br>**S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted)
+<br>1. **S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted)
 
