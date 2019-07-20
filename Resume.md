@@ -61,3 +61,5 @@
 ## <img src="assets/document.svg" width="20px"> PUBLICATIONS
 <br>1. **S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted)
 <br>2. **S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin, "Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking," in IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)
+<br>3. **S. Liu**, H. Xu, Y. Lin, and L. Gao, "Visual Navigation for Recovering an AUV by Another AUV in Shallow Water," Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)
+<br>4. **S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu, "Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging," *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-5.
