@@ -58,6 +58,6 @@
 - ★☆☆ RabbitMQ、ZooKeeper
 - ★★☆ JavaScript
 
-## <img src="assets/documents.svg" width="20px"> PUBLICATIONS
-<br>\textbf{S. Liu}, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," \textit{2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, Maucau, 2019. (accepted)
+## <img src="assets/document.svg" width="20px"> PUBLICATIONS
+<br>**S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted)
 
