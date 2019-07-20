@@ -1,4 +1,4 @@
- <center>
+﻿ <center>
      <h1>Shuang Liu</h1>
      <div>
          <span>
@@ -12,14 +12,14 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> PERSONAL INFORMATION
+ ## <img src="assets/info-circle-solid.svg" width="25px"> PERSONAL INFORMATION
 
  - 男，1994 年出生
  - 求职意向：Java 研发工程师
  - 工作经验：0 年（校招可不填）
  - 期望薪资：0k（校招可不填）
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> EDUCATION
+## <img src="assets/graduation-cap-solid.svg" width="25px"> EDUCATION
 
 - **Ph.D. candidate**; *University of Chinese Academy of Sciences，Mechanical and Electronic Engineering*, 2014-2020.6 (expected)
 <br>--*Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.*
@@ -38,7 +38,7 @@
 - **National scholarship for graduate students**, *awarded by Ministry of Education of the People's Republic of China*, 2013
 - **Outstanding graduates awards for undergraduate students**, *awarded by Shenyang University of Technology*， 2011
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="25px"> 项目经历
 
 - **XXXX 项目**
 
@@ -46,7 +46,7 @@
 
   使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="25px"> 技能清单
 
 - ★★★ Java
 - ★★☆ C++、Python
