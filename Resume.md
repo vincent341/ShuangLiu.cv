@@ -28,7 +28,7 @@
 -- *Research fields: image processing and pattern recognition.*
 - **Bachelor of engineering**; *Shenyang University of Technology (China)*, Computer Science and Technology, 2007-2011
 
-## <img src="assets/award1.svg" width="30px"> 工作经历
+## <img src="assets/award2.svg" width="30px"> 工作经历
 
 - **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
 
