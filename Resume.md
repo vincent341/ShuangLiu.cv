@@ -1,4 +1,4 @@
-﻿ <center>
+ <center>
      <h1>Shuang Liu</h1>
      <div>
          <span>
@@ -28,11 +28,15 @@
 <br>-- *Research fields: image processing and pattern recognition.*
 - **Bachelor of engineering**; *Shenyang University of Technology (China)*, Computer Science and Technology, 2007-2011
 
-## <img src="assets/award2.svg" width="30px"> 工作经历
+## <img src="assets/award1.svg" width="30px"> HONORS \& AWARDS
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
+- **National scholarship for studying abroad**; *awarded by China Scholarship Council (CSC),* 2017
+- **The first prize academic scholarship**, *awarded by University of Chinese Academy of Sciences*, 2015
+- **Second prize, Oceanology International China 2015 China Underwater Vehicle Contest**, *awarded by Chinese Society of Oceanography*, 2015
+- **Best creativity award, Conference on Development and Prospects of  Unmanned systems**, *awarded by China Command and Control Council*, 2014
+- **Outstanding graduates awards for graduate students**, *awarded by Shenyang University of Technology*, 2014
+- **National scholarship for graduate students**, *awarded by Ministry of Education of the People's Republic of China*, 2013
+- **Outstanding graduates awards for undergraduate students**, *awarded by Shenyang University of Technology*， 2011
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
