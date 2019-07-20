@@ -45,7 +45,8 @@
 <br>Potential of using autonomous underwater vehicles (AUVs) struggles with its finite on-board energy and data storage capacity. Underwater docking has been popularly used due to its ability of autonomous battery recharging and data transfer, making long-term underwater residence possible. A vision based underwater docking algorithm was proposed for the final short-range stage precise docking. Reliable docking involves detecting the docking station robustly and estimating the pose between the AUV and the docking station accurately. To this end, we proposed a robust detection method considering domain-shift and an accurate pose estimation method considering unreliable landmarks. The proposed methods have been validated by both AUV docking and AUV recovery tasks and by two months' field trials on a lake.
 - **Research on Recognition of Paper Currency Serial Number**
 <br>--*Tools: C, DSP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 2011-2014*
-<br>Recognition of paper currency serial number is of great importance for anti-counterfeit and currency tracing and also basic requirements for advanced currency sorter and currency counter. A novel algorithm is designed to recognise paper currency serial numbers for a public limited company JULONG Co.,Ltd. (stock code 300202). The accuracy of recognition is 99.7\% while the time consumption is within 5ms. The proposed algorithm has passed the examination and now runs in the currency sorters of banks in China and Europe.
+<br>Recognition of paper currency serial number is of great importance for anti-counterfeit and currency tracing and also basic requirements for advanced currency sorter and currency counter. A novel algorithm was proposed to recognise paper currency serial numbers for a public limited company JULONG Co.,Ltd. (stock code 300202). The accuracy of recognition is 99.7\% while the time consumption is within 5ms. The proposed algorithm has passed the examination and now runs in the currency sorters of banks both in China and Europe.
+
 
 ## <img src="assets/tools-solid.svg" width="20px"> 技能清单
 
@@ -56,3 +57,7 @@
 - ★★☆ Spring
 - ★☆☆ RabbitMQ、ZooKeeper
 - ★★☆ JavaScript
+
+## <img src="assets/documents.svg" width="20px"> PUBLICATIONS
+<br>\textbf{S. Liu}, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," \textit{2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, Maucau, 2019. (accepted)
+
