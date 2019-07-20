@@ -41,7 +41,7 @@
 ## <img src="assets/project-diagram-solid.svg" width="20px"> SELECTED PROJECTS
 
 - **Visual Navigation for Autonomous Underwater Docking**
-<br>Tools: python, Tensorflow, Jetson TX2 &nbsp&nbsp&nbsp&nbsp Duration: 2015-now
+<br>--*Tools: python, Tensorflow, Jetson TX2 &nbsp;&nbsp;&nbsp;&nbsp; Duration: 2015-now*
 
   使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
