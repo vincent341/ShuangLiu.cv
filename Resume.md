@@ -41,9 +41,8 @@
 ## <img src="assets/project-diagram-solid.svg" width="20px"> SELECTED PROJECTS
 
 - **Visual Navigation for Autonomous Underwater Docking**
-<br>--*Tools: python, Tensorflow, Jetson TX2 &nbsp;&nbsp;&nbsp;&nbsp; Duration: 2015-now*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+<br>--*Tools: python, Tensorflow, Jetson TX2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 2015-2019*
+<br>Potential of using autonomous underwater vehicles (AUVs) struggles with its finite on-board energy and data storage capacity. Underwater docking has been popularly used due to its ability of autonomous battery recharging and data transfer, making long-term underwater residence possible. A vision based underwater docking algorithm was proposed for the final short-range stage precise docking. Reliable docking involves detecting the docking station robustly and estimating the pose between the AUV and the docking station accurately. To this end, we proposed a robust detection method considering domain-shift and an accurate pose estimation method considering unreliable landmarks. The proposed methods have been validated by two months' field trials on a lake. 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 技能清单
 
