@@ -1,11 +1,10 @@
 ﻿ <center>
-     <h1>XXX</h1>
+     <h1>Shuang Liu</h1>
      <div>
          <span>
              <img src="assets/skype.svg" width="18px">
              live:liushuangvision
          </span>
-         ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              liushuangvision@gmail.com
@@ -13,7 +12,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> PERSONAL INFORMATION
 
  - 男，1994 年出生
  - 求职意向：Java 研发工程师
@@ -22,15 +21,14 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> EDUCATION
 
-- Ph.D. candidate，University of Chinese Academy of Sciences，Mechanical and Electronic Engineering，2014.-now
--- Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.
-- Ph.D. joint education program, Tohoku University (Japan), 2016-2017
-- Master of engineering, Shenyang University of Technology (China), Computer Technology Application, 2011-2014
--- Research fields: image processing and pattern recognition.
-- Bachelor of engineering, Shenyang University of Technology (China), Computer Science and Technology, 2007-2011
+- **Ph.D. candidate**; *University of Chinese Academy of Sciences，Mechanical and Electronic Engineering*, 2014-2020.6 (expected)
+-- *Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.*
+- **Ph.D. joint education program**; *Tohoku University (Japan)*, 2016-2017
+- **Master of engineering**, *Shenyang University of Technology (China)*, Computer Technology Application, 2011-2014
+-- *Research fields: image processing and pattern recognition.*
+- **Bachelor of engineering**; *Shenyang University of Technology (China)*, Computer Science and Technology, 2007-2011
 
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/award1.svg" width="30px"> 工作经历
 
 - **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
 
