@@ -59,6 +59,6 @@
 <br>7. **S. Liu**, B. Si and Y. Lin, "Self-organization of hippocampal representations in large environments," *2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney, 2015, pp. 1-6.
 <br>8. W. Yuan and **S. Liu**, "Paper currency serial numbers location for transmission imaging. Computer Engineering \& Design, 2014. (In Chinese)
 
-## <img src="assets/info-solid.svg" width="20px"> REFERENCES
+## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
 - **Dr Mete Ozay**, *meteozay@gmail.com*
 
