@@ -14,7 +14,7 @@
 
  ## <img src="assets/graduation-cap-solid.svg" width="23px"> EDUCATION
 
-- **Ph.D. candidate**; *University of Chinese Academy of Sciences£¬Mechanical and Electronic Engineering*, 2014-2020.6 (expected)
+- **Ph.D. candidate**; *University of Chinese Academy of Sciences, Mechanical and Electronic Engineering*, 2014-2020.6 (expected)
 <br>--*Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.*
 - **Ph.D. joint education program**; *Tohoku University (Japan)*, 2016-2017
 - **Master of engineering**, *Shenyang University of Technology (China)*, Computer Technology Application, 2011-2014
@@ -33,7 +33,7 @@
 
 ## <img src="assets/language.svg" width="23px"> LANGUAGES
 - **English**: &nbsp;&nbsp; Good command in English
-- **Japanese**: &nbsp;&nbsp; The Japanese Language Proficiency Test (JLPT)  N2
+- **Japanese**: &nbsp; The Japanese Language Proficiency Test (JLPT)  N2
 ## <img src="assets/project-diagram-solid.svg" width="20px"> SELECTED PROJECTS
 
 - **Visual Navigation for Autonomous Underwater Docking [[Video1](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)] [[Video2](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]**
