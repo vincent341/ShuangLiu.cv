@@ -31,6 +31,9 @@
 - **National scholarship for graduate students**; *awarded by Ministry of Education of the People's Republic of China*, 2013
 - **Outstanding graduates awards for undergraduate students**; *awarded by Shenyang University of Technology*£¬ 2011
 
+## <img src="assets/language.svg" width="23px"> LANGUAGES
+- **English**: &nbsp;&nbsp; Good command in English
+- **Japanese**: &nbsp;&nbsp; The Japanese Language Proficiency Test (JLPT)  N2
 ## <img src="assets/project-diagram-solid.svg" width="20px"> SELECTED PROJECTS
 
 - **Visual Navigation for Autonomous Underwater Docking [[Video1](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)] [[Video2](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]**
