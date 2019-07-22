@@ -14,26 +14,26 @@
 
  ## <img src="assets/graduation-cap-solid.svg" width="23px"> EDUCATION
 
-- **Ph.D. candidate**; *University of Chinese Academy of Sciences, Mechanical and Electronic Engineering*, 2014-2020.6 (expected)
+- **Ph.D. candidate**; *University of Chinese Academy of Sciences, Mechanical and Electronic Engineering*, 2014-2020.6 (expected).
 <br>--*Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.*
-- **Ph.D. joint education program**; *Tohoku University (Japan)*, 2016-2017
-- **Master of engineering**, *Shenyang University of Technology (China)*, Computer Technology Application, 2011-2014
+- **Ph.D. joint education program**; *Tohoku University (Japan)*, 2016-2017.
+- **Master of engineering**, *Shenyang University of Technology (China)*, Computer Technology Application, 2011-2014.
 <br>-- *Research fields: image processing and pattern recognition.*
-- **Bachelor of engineering**; *Shenyang University of Technology (China)*, Computer Science and Technology, 2007-2011
+- **Bachelor of engineering**; *Shenyang University of Technology (China)*, Computer Science and Technology, 2007-2011.
 
 ## <img src="assets/award1.svg" width="20px"> HONORS \& AWARDS
 
-- **National scholarship for studying abroad**; *awarded by China Scholarship Council (CSC),* 2017
-- **The first prize academic scholarship**; *awarded by University of Chinese Academy of Sciences*, 2015
-- **Second prize, Oceanology International China 2015 China Underwater Vehicle Contest**; *awarded by Chinese Society of Oceanography*, 2015
-- **Best creativity award, Conference on Development and Prospects of  Unmanned Systems**; *awarded by China Command and Control Council*, 2014
-- **Outstanding graduates awards for graduate students**; *awarded by Shenyang University of Technology*, 2014
-- **National scholarship for graduate students**; *awarded by Ministry of Education of the People's Republic of China*, 2013
-- **Outstanding graduates awards for undergraduate students**; *awarded by Shenyang University of Technology*£¬ 2011
+- **National scholarship for studying abroad**; *awarded by China Scholarship Council (CSC),* 2017.
+- **The first prize academic scholarship**; *awarded by University of Chinese Academy of Sciences*, 2015.
+- **Second prize, Oceanology International China 2015 China Underwater Vehicle Contest**; *awarded by Chinese Society of Oceanography*, 2015.
+- **Best creativity award, Conference on Development and Prospects of  Unmanned Systems**; *awarded by China Command and Control Council*, 2014.
+- **Outstanding graduates awards for graduate students**; *awarded by Shenyang University of Technology*, 2014.
+- **National scholarship for graduate students**; *awarded by Ministry of Education of the People's Republic of China*, 2013.
+- **Outstanding graduates awards for undergraduate students**; *awarded by Shenyang University of Technology*, 2011.
 
 ## <img src="assets/language.svg" width="23px"> LANGUAGES
-- **English**: &nbsp;&nbsp; Good command in English
-- **Japanese**: The Japanese Language Proficiency Test (JLPT)  N2
+- **English**: &nbsp;&nbsp; Good command in English.
+- **Japanese**: The Japanese Language Proficiency Test (JLPT)  N2.
 ## <img src="assets/project-diagram-solid.svg" width="20px"> SELECTED PROJECTS
 
 - **Visual Navigation for Autonomous Underwater Docking [[Video1](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)] [[Video2](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]**
