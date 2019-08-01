@@ -60,5 +60,5 @@
 <br>8. W. Yuan and **S. Liu**, "Paper currency serial numbers location for transmission imaging. Computer Engineering \& Design, 2014. (In Chinese)
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
-- **Dr Mete Ozay**, *Research Assistant Professor, Tohoku University*, meteozay@gmail.com
+- Available upon request
 
