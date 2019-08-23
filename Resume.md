@@ -50,7 +50,7 @@
 - **Tools**: Tensorflow, Opencv
 - **OS**: Linux, Windows
 ## <img src="assets/document.svg" width="20px"> PUBLICATIONS
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="assets/t2f.gif">
 
 This is the code you need to align images to the left:
 ```
