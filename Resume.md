@@ -51,7 +51,7 @@
 - **OS**: Linux, Windows
 ## <img src="assets/document.svg" width="20px"> PUBLICATIONS
 
-<div class="pull-left"><img src="assets/t2f.gif" width="120" height="88"></div/>aaaaaaaaaaaaaaaaaaaaaa
+<div class="pull-left"><img src="assets/t2f.gif" width="120" height="88"></div>aaaaaaaaaaaaaaaaaaaaaa
 
 1. **S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted) [[Code](https://github.com/vincent341/T2FGAN)][[Video](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)]
 <br>2. **S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin, "Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking," in IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)][[Video](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]
