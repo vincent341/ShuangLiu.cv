@@ -50,13 +50,7 @@
 - **Tools**: Tensorflow, Opencv
 - **OS**: Linux, Windows
 ## <img src="assets/document.svg" width="20px"> PUBLICATIONS
-<img align="left" width="120" height="68" src="assets/t2f.gif">
-
-This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-```
-1. **S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted) [[Code](https://github.com/vincent341/T2FGAN)][[Video](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)]
+<img align="left" width="120" height="68" src="assets/t2f.gif">1. **S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani, "A Generative Model of Underwater Images for Active Landmark Detection and Docking," *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Maucau, 2019. (accepted) [[Code](https://github.com/vincent341/T2FGAN)][[Video](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)]
 <br>2. **S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin, "Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking," in IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)][[Video](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]
 <br>3. **S. Liu**, H. Xu, Y. Lin, and L. Gao, "Visual Navigation for Recovering an AUV by Another AUV in Shallow Water," Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)[[Paper](https://www.mdpi.com/1424-8220/19/8/1889/pdf)]
 <br>4. **S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu, "Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging," *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-5.
