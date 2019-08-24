@@ -61,7 +61,7 @@
 <br>**S. Liu**, H. Xu, Y. Lin, and L. Gao
 <br>Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)[[Paper](https://www.mdpi.com/1424-8220/19/8/1889/pdf)]
 <br><img align="left" width="120" height="68" src="assets/LDR_OCEAN.png">
-[Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging]()
+<span style=¡°color:green;¡±> Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging</span>
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu
  <br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018.
 <br>5. H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**, "Automated Recovery of the UUV Based on the Towed System by the USV,"  *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-7.
