@@ -60,14 +60,22 @@
 <img align="left" width="120" height="68" src="assets/access2.gif">[Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking]()
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin
 <br>IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)][[Video](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]
-
 <br><img align="left" width="120" height="68" src="assets/LDR_OCEAN.png">
 Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu
 <br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018.
-<br>5. H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**, "Automated Recovery of the UUV Based on the Towed System by the USV,"  *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-7.
-<br>6. G. Li, T. Gao, L. Dong, **S. Liu**, H. Xu, Y. Lin and Q. Jia, "A Modular Miniature Underwater Robot Design Sscheme for Swarm Operations,"  *OCEANS 2016 - Shanghai*, Shanghai, 2016, pp. 1-5.
-<br>7. **S. Liu**, B. Si and Y. Lin, "Self-organization of hippocampal representations in large environments," *2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney, 2015, pp. 1-6.
+<img align="left" width="120" height="68" src="assets/gu1.png">
+<br>[Automated Recovery of the UUV Based on the Towed System by the USV](https://ieeexplore.ieee.org/document/8559320)
+<br>H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**
+<br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe.
+<br><img align="left" width="120" height="68" src="assets/guan.png">
+<br>[A Modular Miniature Underwater Robot Design Sscheme for Swarm Operations](https://ieeexplore.ieee.org/document/7485357)
+<br>G. Li, T. Gao, L. Dong, **S. Liu**, H. Xu, Y. Lin and Q. Jia
+<br>*OCEANS 2016 - Shanghai*, pp. 1-5.
+<br><img align="left" width="120" height="68" src="assets/si.png">
+<br>[Self-organization of hippocampal representations in large environments](https://ieeexplore.ieee.org/document/7280848)
+<br>**S. Liu**, B. Si and Y. Lin
+<br>*2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney, 2015, pp. 1-6.
 <br>8. W. Yuan and **S. Liu**, "Paper currency serial numbers location for transmission imaging. Computer Engineering \& Design, 2014. (In Chinese)
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
