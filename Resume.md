@@ -53,11 +53,11 @@
 <img align="left" width="120" height="68" src="assets/t2f.gif">[A Generative Model of Underwater Images for Active Landmark Detection and Docking](https://github.com/vincent341/T2FGAN)
 <br>**S. Liu**, M. Ozay, H. Xu,Y. Lin, and  T. Okatani
  <br>*2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. (accepted) <!---[[Code](https://github.com/vincent341/T2FGAN)][[Video](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing)]-->
-<br><img align="left" width="120" height="68" src="assets/sensors-3.png">[Visual Navigation for Recovering an AUV by Another AUV in Shallow Water]()
+<br><img align="left" width="120" height="68" src="assets/sensors-3.png">[Visual Navigation for Recovering an AUV by Another AUV in Shallow Water](https://www.mdpi.com/1424-8220/19/8/1889/pdf)
 <br>**S. Liu**, H. Xu, Y. Lin, and L. Gao
 <br>Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)[[Paper](https://www.mdpi.com/1424-8220/19/8/1889/pdf)]
 <br>
-<img align="left" width="120" height="68" src="assets/access2.gif">[Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking]()
+<img align="left" width="120" height="68" src="assets/access2.gif">[Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin
 <br>IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)][[Video](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]
 <br><img align="left" width="120" height="68" src="assets/LDR_OCEAN.png">
@@ -76,7 +76,10 @@
 [Self-organization of hippocampal representations in large environments](https://ieeexplore.ieee.org/document/7280848)
 <br>**S. Liu**, B. Si and Y. Lin
 <br>*2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney.
-<br>8. W. Yuan and **S. Liu**, "Paper currency serial numbers location for transmission imaging. Computer Engineering \& Design, 2014. (In Chinese)
+<br><img align="left" width="120" height="68" src="assets/currency.png">
+[Paper currency serial numbers location for transmission imaging](http://www.cnki.com.cn/Article/CJFDTotal-SJSJ201410039.htm)
+<br>W. Yuan and **S. Liu**
+<br>Computer Engineering \& Design, 2014. (In Chinese)
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
 - Available upon request
