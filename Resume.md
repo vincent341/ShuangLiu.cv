@@ -57,7 +57,9 @@
 <img align="left" width="120" height="68" src="assets/access2.gif">[Detection and Pose Estimation for Short-Range Vision-Based Underwater Docking]()
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, K. Sun and Y. Lin
 <br>IEEE Access, vol. 7, pp. 2720-2749, 2019. (IF:4.098)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567906)][[Video](https://drive.google.com/open?id=150qfsnMjmWUnWlwzXiC6R-kSfGU34R37)]
-<br>3. **S. Liu**, H. Xu, Y. Lin, and L. Gao, "Visual Navigation for Recovering an AUV by Another AUV in Shallow Water," Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)[[Paper](https://www.mdpi.com/1424-8220/19/8/1889/pdf)]
+<img align="left" width="120" height="68" src="assets/sensors-1.png">[Visual Navigation for Recovering an AUV by Another AUV in Shallow Water]()
+<br>**S. Liu**, H. Xu, Y. Lin, and L. Gao
+<br>Sensors, vol. 19, no. 8, p. 1889, Apr. 2019. (IF:3.031)[[Paper](https://www.mdpi.com/1424-8220/19/8/1889/pdf)]
 <br>4. **S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu, "Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging," *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-5.
 <br>5. H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**, "Automated Recovery of the UUV Based on the Towed System by the USV,"  *2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018, pp. 1-7.
 <br>6. G. Li, T. Gao, L. Dong, **S. Liu**, H. Xu, Y. Lin and Q. Jia, "A Modular Miniature Underwater Robot Design Sscheme for Swarm Operations,"  *OCEANS 2016 - Shanghai*, Shanghai, 2016, pp. 1-5.
