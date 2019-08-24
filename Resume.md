@@ -69,7 +69,7 @@
 <br>H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**
 <br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*.
 <br><img align="left" width="120" height="68" src="assets/guan.png">
-[A Modular Miniature Underwater Robot Design Sscheme for Swarm Operations](https://ieeexplore.ieee.org/document/7485357)
+[A Modular Miniature Underwater Robot Design Scheme for Swarm Operations](https://ieeexplore.ieee.org/document/7485357)
 <br>G. Li, T. Gao, L. Dong, **S. Liu**, H. Xu, Y. Lin and Q. Jia
 <br>*OCEANS 2016 - Shanghai*.
 <br><img align="left" width="120" height="68" src="assets/si.png">
