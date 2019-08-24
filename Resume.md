@@ -64,7 +64,7 @@
 Learning Deep Representations and Detection of Docking Stations Using Underwater Imaging
 <br>**S. Liu**, M. Ozay, T. Okatani, H. Xu, Y. Lin and H. Gu
 <br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe, 2018.
-<img align="left" width="120" height="68" src="assets/gu1.png">
+<br><img align="left" width="120" height="68" src="assets/gu1.png">
 <br>[Automated Recovery of the UUV Based on the Towed System by the USV](https://ieeexplore.ieee.org/document/8559320)
 <br>H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**
 <br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe.
