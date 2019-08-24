@@ -67,15 +67,15 @@
 <br><img align="left" width="120" height="68" src="assets/gu1.png">
 [Automated Recovery of the UUV Based on the Towed System by the USV](https://ieeexplore.ieee.org/document/8559320)
 <br>H. Gu, L. Meng, G. Bai, H. Zhang, Y. Lin and **S. Liu**
-<br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*, Kobe.
+<br>*2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)*.
 <br><img align="left" width="120" height="68" src="assets/guan.png">
 [A Modular Miniature Underwater Robot Design Sscheme for Swarm Operations](https://ieeexplore.ieee.org/document/7485357)
 <br>G. Li, T. Gao, L. Dong, **S. Liu**, H. Xu, Y. Lin and Q. Jia
-<br>*OCEANS 2016 - Shanghai*, pp. 1-5.
+<br>*OCEANS 2016 - Shanghai*.
 <br><img align="left" width="120" height="68" src="assets/si.png">
 [Self-organization of hippocampal representations in large environments](https://ieeexplore.ieee.org/document/7280848)
 <br>**S. Liu**, B. Si and Y. Lin
-<br>*2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney, 2015, pp. 1-6.
+<br>*2015 International Joint Conference on Neural Networks (IJCNN)*, Killarney.
 <br>8. W. Yuan and **S. Liu**, "Paper currency serial numbers location for transmission imaging. Computer Engineering \& Design, 2014. (In Chinese)
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
