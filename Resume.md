@@ -83,4 +83,3 @@
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
 - Available upon request
-[![t2f](assets/sensors-3.png)](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing "t2f")
