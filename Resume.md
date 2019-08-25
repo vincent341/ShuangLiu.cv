@@ -83,7 +83,4 @@
 
 ## <img src="assets/info-circle-solid.svg" width="20px"> REFERENCES
 - Available upon request
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-      </video>
-
+[![t2f](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC%2Fview%3Fusp%3Dsharing)](https://drive.google.com/file/d/1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC/view?usp=sharing "t2f")
