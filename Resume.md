@@ -14,7 +14,7 @@
 
  ## <img src="assets/graduation-cap-solid.svg" width="23px"> EDUCATION
 
-- **Ph.D. candidate**; *University of Chinese Academy of Sciences, Mechanical and Electronic Engineering*, 2014-2020.6 (expected).
+- **Ph.D.**; *University of Chinese Academy of Sciences, Mechanical and Electronic Engineering*, 2014-2020.1.
 <br>--*Research fields: robotic vision, deep learning, detection, pose estimation and marine robots.*
 - **Ph.D. joint education program**; *Tohoku University (Japan)*, 2016-2017.
 - **Master of engineering**, *Shenyang University of Technology (China)*, Computer Technology Application, 2011-2014.
